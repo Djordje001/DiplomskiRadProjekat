@@ -1,0 +1,40 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# Build output
+/build/
+dist/
+
+# React specific
+/.env*
+/.next/
+coverage/
+
+# Logs
+logs
+*.log
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Maven specific files
+/.mvn/
+target/
+*.jar
+*.war
+*.ear
+
+# Spring specific files
+/*.class
+*.db
+*.h2.db
+
+# OS specific files
+.DS_Store
+Thumbs.db
